@@ -6,4 +6,5 @@ This repository contains the rewritten code for the Horiseon website. By using t
 The initial code has also been modified to use the more modern smeantic HTML elements, therefore looking a lot cleaner to go over.
 
 Website URL: 
+
 Repository URL: https://github.com/ngardunia/Challenge-1
